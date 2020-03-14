@@ -1,0 +1,17 @@
+IP:172.16.135.245
+
+IP:47.96.113.45
+
+code: 141050
+ubuntu系统命令
+安装命令
+apt-get install + 软件名
+pip3 install +软件名
+
+sudo 管理员权限运行
+cd 打开文件夹
+ls 浏览当前文件夹所有文件名
+
+系统更新
+sudo apt-get update
+sudo apt-get upgrade
