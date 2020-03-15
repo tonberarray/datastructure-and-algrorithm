@@ -121,7 +121,7 @@ class AVLTree(object):
 
 	def delnode(self, key):
 		if self.searched(key):
-			self.head = search.deletenode(self.head, key)
+			self.head = self.deletenode(self.head, key)
 		else:
 			print("节点不存在")
 			return 	
